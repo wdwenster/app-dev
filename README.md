@@ -1,5 +1,5 @@
 # app-dev
-My first repository\
+My first repository
 
 Information about some of ***My Favorite Series*** that is actually ***a movie***.
 
